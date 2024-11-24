@@ -1,3 +1,5 @@
+![Banner](https://www.upload.ee/image/17431678/qweather.png)
+
 # qWeather
 
 A modern and responsive weather application built with SvelteKit that provides real-time weather information and forecasts for cities worldwide.
